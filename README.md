@@ -1,13 +1,9 @@
-Virality Prediction
+Twitter Virality Prediction
 ===================
 Overview
 --------
 This project aims at predicting the virality of tweets and hashtags on Twitter based on a regression model and a classifier trained by a machine learning algorithms.
-
-Technologies
-------------
-- Python
-- MongoDB
+Works for Python 2.7, Python 3.x support coming soon
 
 Data
 ----
